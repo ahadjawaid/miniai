@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "miniai"
+  site-url: "https://ahadjawaid.github.io/miniai"
+  description: "A machine learning framework on top of PyTorch"
+  repo-branch: main
+  repo-url: "https://github.com/ahadjawaid/miniai"
