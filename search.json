@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "01-minibatch-training.html",
+    "href": "01-minibatch-training.html",
+    "title": "miniai",
+    "section": "",
+    "text": "source\n\naccuracy\n\n accuracy (preds, targets)\n\n\nsource\n\n\nreport\n\n report (loss, preds, targets)\n\n\nsource\n\n\nDataset\n\n Dataset (x, y)\n\nInitialize self. See help(type(self)) for accurate signature.\n\nsource\n\n\nfit\n\n fit (epochs, model, loss_func, opt, train_dl, valid_dl)\n\n\nsource\n\n\nget_dls\n\n get_dls (train_ds, valid_ds, bs, **kwargs)\n\n\nimport nbdev; nbdev.nbdev_export()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "miniai",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "miniai",
+    "section": "Install",
+    "text": "Install\npip install miniai"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "miniai",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
